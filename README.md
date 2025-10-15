@@ -1,4 +1,4 @@
-# Araba-Sitesi (Demo)
+# Araba Sitesi (Demo)
 Bu proje, HTML ve CSS kullanılarak farklı araba markalarını ve modellerini görsel olarak sergileyen, kullanıcıya temel bilgi ve detay sunan statik bir web sitesi örneğidir.
 
 ## Özellikler
